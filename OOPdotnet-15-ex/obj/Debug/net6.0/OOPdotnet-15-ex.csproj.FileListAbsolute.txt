@@ -1,0 +1,15 @@
+D:\Code\Study\OOPdotnet-15-ex\bin\Debug\net6.0\OOPdotnet-15-ex.exe
+D:\Code\Study\OOPdotnet-15-ex\bin\Debug\net6.0\OOPdotnet-15-ex.deps.json
+D:\Code\Study\OOPdotnet-15-ex\bin\Debug\net6.0\OOPdotnet-15-ex.runtimeconfig.json
+D:\Code\Study\OOPdotnet-15-ex\bin\Debug\net6.0\OOPdotnet-15-ex.dll
+D:\Code\Study\OOPdotnet-15-ex\bin\Debug\net6.0\OOPdotnet-15-ex.pdb
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.csproj.AssemblyReference.cache
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.AssemblyInfoInputs.cache
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.AssemblyInfo.cs
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.csproj.CoreCompileInputs.cache
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.dll
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\refint\OOPdotnet-15-ex.dll
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.pdb
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\OOPdotnet-15-ex.genruntimeconfig.cache
+D:\Code\Study\OOPdotnet-15-ex\obj\Debug\net6.0\ref\OOPdotnet-15-ex.dll

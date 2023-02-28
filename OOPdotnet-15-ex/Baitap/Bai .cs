@@ -2,54 +2,32 @@
 {
     class CanBo
     {
-        protected string HoTen { get; set; }
-        protected int Tuoi { get; set; }
-        protected string GioiTinh { get; set; }
-        protected string DiaChi { get; set; }
+        public string HoTen { get; set; }
+        public int Tuoi { get; set; }
+        public string GioiTinh { get; set; }
+        public string DiaChi { get; set; }
     }
 
     class CongNhan : CanBo
     {
         public int Bac { get; set; }
-        public CongNhan() 
-        {
-            HoTen = "";
-            Tuoi = 0;
-            GioiTinh = "";
-            DiaChi = "";
-            Bac = 0;
-        }
+
     }
 
     class KySu : CanBo
     {
         public string NganhDaoTao { get; set; }
-        public KySu()
-        {
-            HoTen = "";
-            Tuoi = 0;
-            GioiTinh = "";
-            DiaChi = "";
-            NganhDaoTao = "";
-        }
+ 
     }
 
     class NhanVien : CanBo
     {
         public string CongViec { get; set; }
-        public NhanVien()
-        {
-            HoTen = "";
-            Tuoi = 0;
-            GioiTinh = "";
-            DiaChi = "";
-            CongViec = "";
-        }
     }
 
     class QLCB
     {
-        protected List<CanBo> danhSachCanBo = new List<CanBo>();
+         List<CanBo> danhSachCanBo = new List<CanBo>();
 
         public void NhapCongNhan()
         {
@@ -70,8 +48,15 @@
             Console.WriteLine("dia chi can bo la: " + diaChiCanBo);
 
             CongNhan congNhan = new CongNhan();
-            congNhan.
+            congNhan.HoTen = hoTenCanBo;
+            congNhan.Bac = int.Parse(bacCanBo);
+            congNhan.Tuoi = int.Parse(tuoiCanBo);
+            congNhan.GioiTinh = gioiTinhCanBo;
+            congNhan.DiaChi = diaChiCanBo;
 
+            danhSachCanBo.Add(congNhan);
+
+            Console.WriteLine(danhSachCanBo.Count);
         }
 
     }
